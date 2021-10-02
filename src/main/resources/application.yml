@@ -1,0 +1,7 @@
+# This file contains all common configurations that will be used in all environments
+# Any environment-specific configuration must be defined in application-[environment].yml
+server:
+  port: 8080
+spring:
+  application:
+    name: spring-boot-with-docker-demo
